@@ -79,7 +79,7 @@ class _MovieDetailCardState extends State<MovieDetailCard> {
                                 Icons.star_outlined,
                                 color: Colors.amber,
                               ),
-                              itemCount: 5,
+                              itemCount: 8,
                               itemSize: 25.0,
                               direction: Axis.horizontal,
                             ),
